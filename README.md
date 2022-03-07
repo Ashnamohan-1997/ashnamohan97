@@ -1,2 +1,2 @@
 # ashnamohan97
-message.welcome=Hello ....From GitHub
+message.welcome:Hello ....From GitHub
